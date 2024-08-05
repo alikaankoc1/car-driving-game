@@ -1,0 +1,10 @@
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\bin\Debug\Porje_Odev.exe.config
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\bin\Debug\Porje_Odev.exe
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\bin\Debug\Porje_Odev.pdb
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\obj\Debug\Porje_Odev.csproj.AssemblyReference.cache
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\obj\Debug\Porje_Odev.Form1.resources
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\obj\Debug\Porje_Odev.Properties.Resources.resources
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\obj\Debug\Porje_Odev.csproj.GenerateResource.cache
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\obj\Debug\Porje_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\obj\Debug\Porje_Odev.exe
+C:\Users\Ali Kaan\Desktop\C# Dersleri\Porje_Odev\Porje_Odev\obj\Debug\Porje_Odev.pdb
